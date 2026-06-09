@@ -95,3 +95,22 @@ public class Ejercicio_5
         Console.WriteLine (x > y);
     }
 }
+
+//---------------------------------------------------------------
+
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+       int x, y, z;
+       x = y = z = 50;
+       Console.WriteLine(x + y + z);
+
+    }
+}
+
+//------------------------------------------------------------------
+
